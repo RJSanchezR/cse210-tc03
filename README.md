@@ -2,6 +2,9 @@
 
 Repository test week 3
 
+Rodrigo's bio. 
+
+Just for testing purposes. I'm from Mexico.
 
 Sierra_Whitmer 
 I am from Arizona, which is where I met my husband (I love you babe). 

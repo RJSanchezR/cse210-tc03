@@ -1,4 +1,6 @@
 # cse210-tc03
 Repository test week 3
 
-Rodrigo's bio. Just for testing purposes.
+Rodrigo's bio. 
+
+Just for testing purposes. I'm from Mexico.

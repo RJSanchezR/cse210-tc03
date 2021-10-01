@@ -1,2 +1,2 @@
-def display_sanchez():
-    print("Hello from Rodrigo")
+def display_rodrigo():
+    print("Hello from Rodrigo Sanchez")

@@ -5,7 +5,7 @@ from davenport import davenport
 from sanchez import display_rodrigo
 from whitmer import whitmer
 
-print(display_carly())
-print(davenport())
-print(display_rodrigo())
-print(whitmer())
+display_carly()
+davenport()
+display_rodrigo()
+whitmer()
